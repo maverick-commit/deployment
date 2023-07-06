@@ -1,0 +1,21 @@
+.message-container{
+    /* text-align: -webkit-center;
+    width: calc(100%-30px); */
+    align-items: center;
+}
+
+.message_header{
+    font-weight: bold;
+    line-height: 32px;
+    font-size: xx-large;
+    width: 65%;
+    justify-content: center;
+}
+
+.message_body{
+    text-align: left;
+    width: 60%;
+    justify-content: center;
+    margin: 16px 0;
+    line-height: 32px;
+}

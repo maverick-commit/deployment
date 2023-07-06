@@ -1,0 +1,50 @@
+.header {
+  background-color: #333333;
+  background-position: 0px 0px;
+  color: #707070;
+  height: 93px;
+  border-bottom: 2px solid #4f4f4f;
+  /* position: fixed;
+  z-index: 10;
+  top: 0;
+  left: 0; */
+}
+.menuContainer{
+    width: 1300px;
+
+}
+.ulMenu{
+    list-style-type: none;
+    position: relative;
+}
+
+.listMenu{
+    list-style-type: none;
+    position: relative;
+}
+.listAnchor{
+    font-size: 1.0rem;
+    font-weight: 500;
+    color: #FFF;
+    text-decoration: none;
+    cursor: pointer;
+}
+.listAnchorSpan{
+    font-size: 1.0rem;
+    font-weight: 500;
+    color: #FFF;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.drpDwnMnu{
+    display: none;
+}
+.listAnchorSpan:hover .drpDwnMnu{
+    position: absolute;
+    background: white;
+    color: black;
+    top: 45px;
+    align-items: center;
+    display: flex;
+}
