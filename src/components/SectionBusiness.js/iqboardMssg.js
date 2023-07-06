@@ -7,7 +7,7 @@ const IqBoardMssg = () => {
       <div className="flexCol message-container ">
         <div className="flexRow message_body">
           <spna className="message_header">
-            Company_Name Interactive Display Solutions
+            Interactive Display Solutions
           </spna>
         </div>
         <div className="flexRow message_body">
