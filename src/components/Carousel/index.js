@@ -18,13 +18,16 @@ const BannerCarousel = () => {
       thumbWidth='0'
     >
       <div>
-        <img src="https://raw.githubusercontent.com/raviranjan1122/assets/main/images/c_banner.jpg" alt="img1" />
+        <img src="https://cdn.iqboard.net/img/slider/HC900-pro.jpg" alt="img1" />
       </div>
       <div>
-        <img src="https://raw.githubusercontent.com/raviranjan1122/assets/main/images/c_banner1.jpg" alt="img1" />
+        <img src="https://cdn.iqboard.net/img/slider/AHY2000115.jpg" alt="img1" />
       </div>
       <div>
-        <img src="https://raw.githubusercontent.com/raviranjan1122/assets/main/images/c_banner2.jpg" alt="img1" />
+        <img src="https://cdn.iqboard.net/img/slider/3840.5.jpg" alt="img1" />
+      </div>
+      <div>
+        <img src="https://cdn.iqboard.net/img/slider/banner-business.jpg" alt="img1" />
       </div>
     </Carousel>
   );
