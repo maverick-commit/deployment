@@ -8,7 +8,7 @@ const Header = () => {
         <div className="flexRow alignCntr menuContainer">
           <div className="flexAutoRow">
             <a href="/">
-              <img className="iqLogo" alt="iqLogo" src="https://github.com/maverick-commit/bits_assests/blob/main/logos/circuit_logo.png" />
+              <img className="iqLogo" alt="iqLogo" src="https://raw.githubusercontent.com/maverick-commit/bits_assests/main/logos/circuit_logo.png" />
             </a>
           </div>
           <div className="flexMinWidthRow">
